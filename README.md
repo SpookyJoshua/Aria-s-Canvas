@@ -5,3 +5,4 @@ Some Of The Code I made for my HNC Project Aria's Canvas (For my Portfolio)
 - Character Movement System
 - Post Processing Scripts
 - Puzzle Systems
+- Power Ups System
